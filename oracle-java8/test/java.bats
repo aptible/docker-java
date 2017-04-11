@@ -10,5 +10,5 @@
 
 @test "It should install Oracle Java 8" {
   run javac -version
-  [ "$output" = "javac 1.8.0_45" ]
+  [ "$output" = "javac 1.8.0_121" ]
 }
