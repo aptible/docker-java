@@ -4,6 +4,15 @@
 
 Java (JDK) on Docker.
 
+## Intended Use
+
+This image is used internally by Aptible. We do not recommend that customers
+use this repo, and instead recommend the Official Docker Java image:
+https://hub.docker.com/_/openjdk
+
+Please see our [FAQ](https://www.aptible.com/documentation/deploy/tutorials/faq/aptible-base-images.html)
+for further information.
+
 ## Installation and Usage
 
     docker pull quay.io/aptible/java
